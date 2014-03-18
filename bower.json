@@ -1,0 +1,17 @@
+{
+  "name": "OpenFisca-Visualizations",
+  "version": "0.1",
+  "authors": [
+    "OpenFisca Team"
+  ],
+  "license": "AGPL",
+  "homepage": "https://github.com/openfisca/openfisca-visualizations",
+  "dependencies": {
+    "jquery": "~1.11",
+    "requirejs": "~2.1.10",
+    "requirejs-domready": "~2.0.1",
+    "underscore": "~1.6.0",
+    "d3": "~3.3.13",
+    "nvd3": "~1.1.15-beta"
+  }
+}
